@@ -1,0 +1,16 @@
+body{
+    background-color: #f17d08;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#container{
+    display: flex;
+    background: beige;
+    justify-content: center;
+    justify-items: center;
+    border: black 1px solid;
+    width: 70%;
+    margin: 20vh;
+    margin: 0 auto;
+}
